@@ -1,1 +1,1 @@
-# Crypto_trader_AWS_instance
+# Crypto-trader built on an AWS EC2 instance
